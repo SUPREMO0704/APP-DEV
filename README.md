@@ -1,32 +1,15 @@
 # APP-DEV
-My first repository
+#(3) SONGS
 
-# Baki Hanma
+### 1. 187 mobsta
 
-Baki Hanma is the protagonist of the manga and anime series "Baki the Grappler" created by Keisuke Itagaki. He is a young martial artist striving to become the strongest fighter in the world, following in the footsteps of his legendary father, Yujiro Hanma.
+**This song is all about a group of rapper amd also a gang that established and originatied on tondo, manila.
 
-## Summary
+### 2. Buhay ng gangsta
 
-Baki's journey revolves around intense martial arts battles, where he faces formidable opponents from various disciplines. His determination, exceptional fighting skills, and unyielding spirit drive him to continuously seek out challenges and improve himself.
+**This song is all about a life of a gangster, it tells the risk of being a gang member also it tells about the pros and cons of being in a gang or familia. It tells that he is consenques if he is a good or bad influence for his child.
 
-### Notable Traits
+### 3. HUKBALAHAP
 
-- **Combat Prowess:** Baki possesses incredible fighting abilities, honed through rigorous training and combat experience.
-- **Indomitable Spirit:** His unwavering resolve and unrelenting determination push him beyond his limits.
-- **Strategic Mindset:** Baki often analyzes his opponents' weaknesses and adapts his fighting style accordingly.
-
-### Story Arcs
-
-- **Underground Arena Saga:** Baki engages in underground martial arts tournaments, facing off against diverse adversaries.
-- **Maximum Tournament Saga:** He participates in a global martial arts tournament, competing against top-tier fighters from around the world.
-- **Convicts Saga:** Baki faces a group of dangerous death row inmates seeking to challenge him and prove their superiority.
-
-## Relationships
-
-- **Yujiro Hanma:** Baki's father and a legendary fighter known as the strongest creature on Earth. Their relationship is complex, filled with rivalry and admiration.
-- **Retsu Kaioh, Kaoru Hanayama, and Other Allies:** Baki forms alliances and friendships with fellow martial artists who support and challenge him in his quest for strength.
-
-### Legacy
-
-Baki Hanma's story showcases the pursuit of excellence in martial arts, the bonds between fighters, and the relentless pursuit of becoming the ultimate warrior.
+**This song show how a gangster fall in love and how a gangster treat her love'ones in a way of act. This song tell that he pleased to change his life even he is a pure gangster. He develop his self to be a better version of him because he want to show that a gangster can cturn to be a good man for his partner or wife.
 
